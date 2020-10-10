@@ -1,0 +1,65 @@
+<p class="MINI WKI">
+    <img src="C:\Users\gusso\Desktop/python1.jpg" alt="LOGO PHY" height="100" align="up">
+</p>
+
+<h1> Linguagem de Programação Phyton</h1>
+<h4> Seguem os Tópicos </h4>
+<hr />
+<h3> História </h3>
+
+<p>Python é uma linguagem de programação de alto nível,interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.[1] Atualmente possui um modelo de desenvolvimento comunitário, aberto e gerenciado pela organização sem fins lucrativos Python Software Foundation. Apesar de várias partes da linguagem possuírem padrões e especificações formais, a linguagem como um todo não é formalmente especificada. O padrão de facto é a implementação CPython.
+    A linguagem foi projetada com a filosofia de enfatizar a importância do esforço do programador sobre o esforço computacional.
+    Prioriza a legibilidade do código sobre a velocidade ou expressividade. 
+    Combina uma sintaxe concisa e clara com os recursos poderosos de sua biblioteca padrão e por módulos e frameworks desenvolvidos por terceiros.
+    Python é uma linguagem de propósito geral de alto nível, multiparadigma, suporta o paradigma orientado a objetos, imperativo, funcional e procedural. Possui tipagem dinâmica e uma de suas principais características é permitir a fácil leitura do código e exigir poucas linhas de código se comparado ao mesmo programa em outras linguagens. Devido às suas características, ela é principalmente utilizada para processamento de textos, dados científicos e criação de CGIs para páginas dinâmicas para a web. Foi considerada pelo público a 3ª linguagem "mais amada", de acordo com uma pesquisa conduzida pelo site Stack Overflow em 2018,[6] e está entre as 5 linguagens mais populares, de acordo com uma pesquisa conduzida pela RedMonk.[7]
+    O nome Python teve a sua origem no grupo humorístico britânico Monty Python,[8] criador do programa Monty Python's Flying Circus, embora muitas pessoas façam associação com o réptil do mesmo nome (em português, píton ou pitão).
+    </p>
+    <hr />
+<h3> Filosofia </h3>
+Parte da cultura da linguagem gira ao redor de The Zen of Python, um poema que faz parte do documento "PEP 20 (The Zen of Python)", escrito pelo programador em Python de longa data Tim Peters, descrevendo sumariamente a filosofia do Python. 
+Pode-se vê-lo através de um easter egg do Python pelo comando:
+<p>
+    <img src="C:\Users\gusso\Desktop/pyt2.png" alt="Avatar" height="500" align="donw">
+</p>
+
+<hr />
+<h3> Tipos de Dados </h3>
+
+A tipagem de Python é forte, pois os valores e objetos têm tipos bem definidos e não sofrem coerções como em C ou Perl. São disponibilizados diversos tipos de dados nativos:<p>
+    <img src="C:\Users\gusso\Desktop/ddpy.png" alt="Avatar" height="300" align="donw">
+<br><br>Python também permite a definição dos tipos de dados próprios, através de classes. Instâncias são construídas invocando a classe (FooClass()), e as classes são instância da classe type, o que permite metaprogramação e reflexão. Métodos são definidos como funções anexadas à classe, e a sintaxe instância.método(argumento) é um atalho para Classe.método(instância, argumento). Os métodos devem referenciar explicitamente a referência para o objeto incluindo o parâmetro self como o primeiro argumento do método.[27]
+Antes da versão 3.0, Python possuía dois tipos de classes: "old-style" e "new-style". Classes old-style foram eliminadas no Python 3.0, e todas são new-style. Em versões entre 2.2 e 3.0, ambos tipos de classes podiam ser usadas. A sintaxe de ambos estilos é a mesma, a diferença acaba sendo de onde objeto da classe é herdado, direta ou indiretamente (todas classes new-style herdam de object e são instancias de type). As classes new-styles nada mais são que tipos definidos pelo usuário.
+</p>
+
+
+   
+<p>
+    <hr />
+    <h3>Construções</h3>    
+    Construções de Python incluem: estrutura de seleção (if, else, elif); estrutura de repetição (for, while), que itera por um container, capturando cada elemento em uma variável local dada; construção de classes (class); construção de sub-rotinas (def); construção de escopo (with), como por exemplo para adquirir um recurso.
+    </p>
+    
+    <p>
+        <h3>Operadores</h3>    
+        Os operadores básicos de comparação como ==, <, >=, entre outros são usados em todos os tipos de dados, como números, cadeias de texto, listas e mapeamentos. Comparações em cadeia como a < b < c possuem o mesmo significado básico que na matemática: os termos são comparadas na ordem.
+        </p>
+
+<p>
+    <hr />
+    <h3>Video Explicativo</h3>
+    <video id="meuVideo" width="400" height="300" controls autoplay controlsList="nodownload">
+        <source src="C:\Users\gusso\Desktop/videophyton.mp4" type="video/mp4">
+         Seu browser não suporta a tag de vídeo.   
+    </video>
+</p>
+<hr />
+<h3> Referências </h3>
+<ol>
+    <li> «HISTORY». Fonte do Python (em inglês). Python Software Foundation. Consultado em 5 de junho de 2008. Arquivado do original em 17 de fevereiro de 2016</li>
+    <li>www.python.org (em inglês). 13 de maio de 2020. Consultado em 25 de junho de 2020</li>
+    <li>Guido van Rossum (Maio de 1996). «Foreword for "Programming Python" (1st ed.)» (em inglês). Python Software Foundation. Consultado em 12 de junho de 2008</li>
+    <li>Guido van Rossum (Maio de 1996). «Foreword for "Programming Python" (1st ed.)» (em inglês). Python Software Foundation. Consultado em 12 de junho de 2008</li>
+    <li> Python Software Foundation. Consultado em 7 de abril de 2020 «The Making of Python» (em inglês). Artima Developer. Consultado em 22 de março de 2007</li>
+    <li>Naomi Hamilton (5 de agosto de 2008). «The A-Z of Programming Languages: Python» (em inglês). Computerworld. Consultado em 17 de agosto de 2008</li>
+ 
+</ol>
